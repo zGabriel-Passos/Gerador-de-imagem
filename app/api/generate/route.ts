@@ -6,7 +6,7 @@ export async function POST(request: Request) {
         const { prompt } = body;
 
         // URL de Produção do seu n8n
-        const N8N_URL = 'https://bi3lzzgoat.app.n8n.cloud/webhook/agent';
+        const N8N_URL = 'YOUR_URL_N8N';
 
         const n8nResponse = await fetch(N8N_URL, {
             method: 'POST',
