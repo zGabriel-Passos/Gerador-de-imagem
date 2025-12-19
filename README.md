@@ -1,5 +1,3 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-
 ## Gerador de Imagem com N8N e NextJS, escreva e veja a imagem gerada a partir do seu texto
 
 
